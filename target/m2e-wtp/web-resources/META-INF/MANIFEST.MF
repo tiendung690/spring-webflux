@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: PhuocNguyen
+Build-Jdk: 13.0.1
+Implementation-Title: spring-webflux
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring.webflux
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-webflux
+ /
+Main-Class: spring.webflux.spring_webflux.HRBootApplication
+Created-By: Maven Integration for Eclipse
+
